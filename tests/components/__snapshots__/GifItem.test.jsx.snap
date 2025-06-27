@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Testsuit for GifItem Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One Punch Man"
+      src="http://thisisafakeurl.com/"
+    />
+    <p>
+      One Punch Man
+    </p>
+  </div>
+</div>
+`;
